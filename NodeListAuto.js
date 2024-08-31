@@ -1,5 +1,5 @@
-#！name=NodeList自动化处理
-#！desc=自动化处理分类NodeList
+#!name = NodeList自动化处理
+#!desc = 自动化处理分类NodeList
 
 
 // 获取所有引入的代理
